@@ -1,0 +1,10 @@
+				Nodes Expanded
+		Euclidean	Manhattan	Chessboard
+Input1		19		6		34
+Input2		31		19		50
+Input3		3		3		5
+
+Optimal Path Solution:
+Input1: (2,3) (2,4) (2,5) (2,6) (2,7) (2,8) 
+Input2: (1,3) (1,4) (1,5) (1,6) (2,6) 
+Input3: (4,4) (4,5) (4,6) 

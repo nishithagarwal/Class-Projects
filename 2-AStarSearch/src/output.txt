@@ -1,0 +1,11 @@
+				Nodes Expanded
+		Euclidean	Manhattan	Chessboard
+Input1		2		2		2
+Input2		8		8		8
+Input3		-		-		-
+
+Optimal Path Solution:
+Input1: (2,2) (2,3) 
+Input2: (1,1) (1,2) (1,3) (2,3) 
+Input3: -1
+
